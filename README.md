@@ -41,3 +41,4 @@ pip install --upgrade google-cloud-storage
 - Due to many complications I had with Flask, I wasn't able to create a webpage for users to interact from. 
 - Make the searches more dynamic, like search by College
 - Have the data more organized and sorted in the results
+- Connect the BigQuery service with other Google Cloud services like Pubsub, Kubernetes, and App Engine
